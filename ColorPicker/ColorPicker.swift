@@ -1,8 +1,3 @@
-//
-//  ColorPicker.swift
-//
-
-
 import UIKit
 import ImageIO
 
